@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm AKSHAT SRIVASTAVA</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-<p align="left"><a href="https://twitter.com/">Click Here</a> </p>
+
 
 - 🔭 I'm a Backend Web Developer and Software Engineering Student.
 
